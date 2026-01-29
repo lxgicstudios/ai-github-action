@@ -1,5 +1,10 @@
 # ai-github-action
 
+[![npm version](https://img.shields.io/npm/v/ai-github-action.svg)](https://www.npmjs.com/package/ai-github-action)
+[![npm downloads](https://img.shields.io/npm/dm/ai-github-action.svg)](https://www.npmjs.com/package/ai-github-action)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate GitHub Actions workflows from plain English. Stop copy-pasting from StackOverflow.
 
 ## Install
