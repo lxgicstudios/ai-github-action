@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-github-action.svg)](https://www.npmjs.com/package/ai-github-action)
 [![npm downloads](https://img.shields.io/npm/dm/ai-github-action.svg)](https://www.npmjs.com/package/ai-github-action)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-github-action)](https://github.com/lxgic-studios/ai-github-action/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Generate GitHub Actions workflows from plain English. Stop copy-pasting from StackOverflow.
