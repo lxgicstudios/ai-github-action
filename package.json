@@ -1,5 +1,5 @@
 {
-  "name": "ai-github-action",
+  "name": "@lxgicstudios/ai-github-action",
   "version": "1.0.0",
   "description": "AI-powered GitHub Actions generator - CI/CD workflows with GPT optimization",
   "main": "dist/index.js",
