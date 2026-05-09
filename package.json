@@ -15,30 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
+    "actions",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "github-actions",
-    "ci-cd",
-    "workflows",
-    "yaml",
     "automation",
-    "developer-tools",
+    "ci-cd",
+    "claude",
     "cli",
-    "typescript",
-    "nodejs",
+    "developer-productivity",
+    "developer-tools",
     "devops",
-    "pipeline"
+    "discoverability",
+    "generative-ai",
+    "github",
+    "llm-optimized",
+    "modern-seo",
+    "nodejs",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-github-action#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-github-action"
+    "url": "https://github.com/LXGIC-Studios/ai-github-action"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-github-action/issues"
