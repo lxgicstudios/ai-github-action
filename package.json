@@ -8,7 +8,7 @@
     "ai-github-action": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-github-action/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,26 +31,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-github-action#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-github-action",
   "keywords": [
-    "2026-standards",
-    "modern-seo",
-    "lxgic",
-    "AI-optimized",
-    "AI-powered",
-    "actions",
-    "agentic-automation",
+    "github-actions",
+    "ci-cd",
+    "workflow",
     "automation",
-    "best-practices",
-    "cli",
-    "dev-automation",
-    "developer-tools",
-    "performance",
-    "seo-tools",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "pipeline"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -61,7 +48,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-github-action"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-github-action"
   },
   "scripts": {
     "build": "tsc"
