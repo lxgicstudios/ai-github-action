@@ -37,7 +37,9 @@
     "github-actions",
     "ci-cd",
     "workflow",
-    "pipeline"
+    "pipeline",
+    "technical-seo",
+    "seo-audit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
