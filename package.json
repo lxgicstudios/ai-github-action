@@ -8,7 +8,7 @@
     "ai-github-action": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-github-action/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,7 +31,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-github-action",
+  "homepage": "https://github.com/LXGIC-Studios/ai-github-action",
   "keywords": [
     "automation",
     "github-actions",
@@ -39,7 +39,18 @@
     "workflow",
     "pipeline",
     "technical-seo",
-    "seo-audit"
+    "seo-audit",
+    "ai",
+    "anthropic",
+    "claude",
+    "cli",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "devtools",
+    "gpt",
+    "npx",
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -50,8 +61,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-github-action"
+    "url": "git+https://github.com/LXGIC-Studios/ai-github-action.git"
   },
   "scripts": {
     "build": "tsc"
