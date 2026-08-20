@@ -47,10 +47,7 @@
     "gpt",
     "npx",
     "openai",
-    "performance",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "performance"
   ],
   "license": "MIT",
   "main": "dist/index.js",
